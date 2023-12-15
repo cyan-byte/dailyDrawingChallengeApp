@@ -1,0 +1,13 @@
+/* src/DrawingCanvas.css */
+.drawing-canvas-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .drawing-canvas {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #ccc;
+    cursor: crosshair;
+  }
+  
